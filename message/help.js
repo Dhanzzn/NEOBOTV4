@@ -252,7 +252,7 @@ ${TT3} ${stripkiri}Lexxy Official${stripknan}
 ${TT3} ${stripkiri}Penyedia Modules${stripknan}
 ${J3}
 
-`+'\`\`\`® Simple Bot Whatsapp\`\`\`'
+`+'\`\`\`® ALDI - MD\`\`\`'
 }
 
 exports.rulesnya = (sender, prefix) => {
@@ -295,13 +295,8 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.sewabot = (sender, prefix) => {
    return `
 ☞ *LIST HARGA SEWABOT*
- ➢ _2 Hari : Rp3.000_
- ➢ _5 Hari : Rp5.000_
- ➢ _1 Minggu : Rp7.000_
- ➢ _2 Minggu : Rp12.000_
- ➢ _1 Bulan : Rp15.000_
- ➢ _2 Bulan : Rp25.000_
- ➢ _3 Bulan : Rp45.000_
+ ➢ _1 Minggu: Rp10K
+ ➢ _Permanent : Rp15K_
 
 _Hai Kak Mau Sewa Bot ??_
 _Untuk Fiturnya Bisa Di Cek #allmenu_
@@ -314,10 +309,10 @@ _Jika Minat Chat Owner Ketik #owner_
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 08xxxxxxx
- ➢ OVO = 08xxxxxxx
- ➢ PULSA = 08xxxxxxx
- ➢ GOPAY = 08xxxxxxx
+ ➢ DANA = https://lynk.id/aldibotz220
+ ➢ OVO = https://lynk.id/aldibotz220
+ ➢ PULSA = https://lynk.id/aldibotz220
+ ➢ GOPAY = https://lynk.id/aldibotz220
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
